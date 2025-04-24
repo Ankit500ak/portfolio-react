@@ -69,8 +69,6 @@
     "react-hook-form": "latest",
     "react-icons": "latest",
     "react-intersection-observer": "latest",
-   
-    "react-native-webview": "13.12.0",
     "react-resizable-panels": "^2.1.7",
     "recharts": "2.15.0",
     "sonner": "^1.7.1",
